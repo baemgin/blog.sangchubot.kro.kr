@@ -66,7 +66,7 @@ export const profileConfig: ProfileConfig = {
 		},
 		{
 			name: "관련 링크들",
-			icon: "fa6-brands:chat-filled",
+			icon: "line-md:chat-filled",
 			url: "https://store.steampowered.com",
 		},
 		{
