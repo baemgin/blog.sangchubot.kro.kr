@@ -67,7 +67,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "관련 링크들",
 			icon: "line-md:chat-filled",
-			url: "https://store.steampowered.com",
+			url: "https://litt.ly/sangchubot",
 		},
 		{
 			name: "GitHub",
